@@ -1,4 +1,4 @@
-# Pandas-challenge
+# Pandas-Challenge
 
 For this assignment, I chose option 1: Heroes of Pymoli.
 
