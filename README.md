@@ -44,7 +44,7 @@ The final report includes the following:
 ## Top Spenders
 
 - Identifies the top 5 spenders in the game by total purchase value, then list (in a table): 
-  - 	SN
+  - SN
   - Purchase Count
   - Average Purchase Price
   - Total Purchase Value
